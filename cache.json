@@ -1,0 +1,124 @@
+{
+    "neighbour_game_three": {
+        "options": [
+            "bou",
+            "bor",
+            "bod",
+            "beu"
+        ],
+        "correct_answer": "bou",
+        "incomplete_word_display": "neigh___r"
+    },
+    "beautiful_game_four": {
+        "options": [
+            "beautifull",
+            "beautifool",
+            "beautifol",
+            "beautifooo"
+        ],
+        "correct_answer": "beautifull",
+        "incomplete_word_display": null
+    },
+    "random_game_two": {
+        "options": [
+            "ly",
+            "ness",
+            "ful",
+            "izer"
+        ],
+        "correct_answer": "ly",
+        "incomplete_word_display": null
+    },
+    "where_game_five": {
+        "options": [
+            "wh___",
+            "Location",
+            [
+                "are",
+                "ere",
+                "ing",
+                "ore"
+            ]
+        ],
+        "correct_answer": "ere",
+        "incomplete_word_display": null
+    },
+    "magic_game_two": {
+        "options": [
+            "ic",
+            "ful",
+            "ment",
+            "ly"
+        ],
+        "correct_answer": "ic",
+        "incomplete_word_display": null
+    },
+    "amusement_game_five": {
+        "options": [
+            "amu_____",
+            "Fun or entertainment",
+            [
+                "sornt",
+                "sovnt",
+                "sement",
+                "sount"
+            ]
+        ],
+        "correct_answer": "sement",
+        "incomplete_word_display": null
+    },
+    "wonderpark_game_one": {
+        "options": [
+            "Wonderpark",
+            "Wunderpark",
+            "Wandapark",
+            "Wondurpark"
+        ],
+        "correct_answer": "Wonderpark",
+        "incomplete_word_display": null
+    },
+    "glacious_game_one": {
+        "options": [
+            "glacious",
+            "glacous",
+            "glaseous",
+            "glacius"
+        ],
+        "correct_answer": "glacious",
+        "incomplete_word_display": null
+    },
+    "correct_game_three": {
+        "options": [
+            "rr",
+            "pp",
+            "tt",
+            "mm"
+        ],
+        "correct_answer": "rr",
+        "incomplete_word_display": "co__ect"
+    },
+    "worker_game_four": {
+        "options": [
+            "wroker",
+            "w0rker",
+            "wkr",
+            "wurkur"
+        ],
+        "correct_answer": "wroker",
+        "incomplete_word_display": null
+    },
+    "engineer_game_five": {
+        "options": [
+            "engi___",
+            "Profession that designs and builds",
+            [
+                "neer",
+                "neal",
+                "neat",
+                "nert"
+            ]
+        ],
+        "correct_answer": "neer",
+        "incomplete_word_display": null
+    }
+}
